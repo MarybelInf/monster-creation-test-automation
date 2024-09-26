@@ -1,0 +1,23 @@
+{
+  "name": "monster-creation-test-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarybelInf/monster-creation-test-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarybelInf/monster-creation-test-automation/issues"
+  },
+  "homepage": "https://github.com/MarybelInf/monster-creation-test-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.2",
+    "allure-playwright": "^3.0.2"
+  }
+}
